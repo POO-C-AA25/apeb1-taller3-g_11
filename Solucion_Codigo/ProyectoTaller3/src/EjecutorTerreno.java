@@ -61,10 +61,6 @@ class Terreno{
         this.costoTerreno = this.area * this.valorMetro;
     }
     public String toString(){
-        return "{Ancho: " + this.getAncho() + ", " +
-                "Largo: " + this.getLargo() + ", " +
-                "valorMetro: " + this.getValorMetro()+ ", " +
-                "Area: " + this.getArea()+ ", " +
-                "CostoTerreno: " + this.getCostoTerreno()+ "}";
+        return "{Ancho: " + this.getAncho() + ", " + "Largo: " + this.getLargo() + ", " + "valorMetro: " + this.getValorMetro()+ ", " + "Area: " + this.getArea()+ ", " + "CostoTerreno: " + this.getCostoTerreno()+ "}";
     }
 }
