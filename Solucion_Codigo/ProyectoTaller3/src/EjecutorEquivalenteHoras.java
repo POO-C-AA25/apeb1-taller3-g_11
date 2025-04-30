@@ -61,3 +61,8 @@ class EquivalenteHora{
                "Días: " + this.getDias() + "}";
     }
 }
+/***
+ * run-single:
+conversionX: {Horas: 16.28840061543551, Minutos: 977.3040369261306, Segundos: 58638.242215567836, D�as: 0.6786833589764796}
+BUILD SUCCESSFUL (total time: 0 seconds)
+ */
